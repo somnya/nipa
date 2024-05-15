@@ -1,5 +1,5 @@
 #!/bin/bash
-# Name: Tlacuilo - From raw FASTQ to HQ SNPs VCF
+# Name: Tlacuilo - From raw FASTQ to HQ SNPs VCF v.0
 # Author: Eddy Mendoza
 # Date: 08/05/23
 
